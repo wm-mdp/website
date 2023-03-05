@@ -1,5 +1,5 @@
 <!-- Main header navigation -->
-<p align="center">Bientôt...</p>
+<p align="center"><h1>Bientôt...</h1></p>
 <hr/>
 <!-- /Main header navigation -->
 ![](pics/dough.jpeg)
